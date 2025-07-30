@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Dawar 👋</h1>
+<h3 align="center">In pursuit of clean code and curious systems.</h3>
 
-<!--
-**Dawar-Anwar-Khan/Dawar-Anwar-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandawarr&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🌱 Frontend developer passionate about intuitive UI and scalable systems  
+- ⚙️ Tech Stack: HTML · CSS · JavaScript · React.js · Tailwind · REST APIs  
+- 💡 Currently learning: UI/UX Design · GitHub Actions  
+- 🌐 Portfolio: [dawar.me](https://dawar.me)
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/khandawarr" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
