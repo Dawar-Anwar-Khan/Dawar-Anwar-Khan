@@ -7,6 +7,6 @@
 
 ![Dawar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawar-Anwar-Khan&show_icons=true&theme=tokyonight)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Dawar-Anwar-Khan)
+![Visitor Count](https://profile-counter.glitch.me/Dawar-Anwar-Khan/count.svg)
 
 </div>
